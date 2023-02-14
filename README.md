@@ -1,4 +1,4 @@
-# Property App R School Project
+# Property App with R Studio (School Project)
 
 ## Project Aim
 
