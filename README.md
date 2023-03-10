@@ -22,8 +22,11 @@ Indicative Polygon of Planning area boundary (SHP) files: https://data.gov.sg/da
 
 ## HomeSweetHome - hSh App Description
 Page 1: Home page - This page serves to be a starting point for our users to explore the different properties that are on sale in the property market. Users can also save listings which they are interested in to compare them later in page 3.
-Page 2: Analyse Past Transactions - This page is for users to explore past financial transactions
+
+Page 2: Analyse Past Transactions - This page is for users to explore past financial transactions.
+
 Page 3: Comparing Favorites - Users can compare their favourited lisitngs by amenities nearby and grants provided.
+
 Page 4: Guide - This page helps guides users through the usage of each of the above pages and how to navigate through them.
 
 ## Limitations
